@@ -1,0 +1,6 @@
+ignore-globs:
+  - "node_modules"
+  - "package.json"
+  - "package-lock.json"
+  - "commitlint.config.js"
+  - ".husky"

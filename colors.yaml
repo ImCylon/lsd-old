@@ -1,0 +1,15 @@
+user: white
+group: white
+permission: white
+date: white
+size: white
+
+directory: light-blue
+symlink: red
+socket: yellow
+executable: green
+special: cyan
+block-device: dark-yellow
+char-device: dark-yellow
+broken: red
+missing: red
